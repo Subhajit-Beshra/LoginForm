@@ -28,17 +28,17 @@ body{
 .container input[type = "text"]{
     padding: 10px 40px;
     outline: none;
-    border-radius: 12px;
     border: none;
+    border-radius: 12px;
     background-color: #F3E4C9;
 }
 .container input[type="password"] {
     padding: 10px 40px;
-    outline-color: #03AED2;
+    outline: none;
     border-radius: 12px;
     border: none;
     background-color: #F3E4C9;
-    color: #fff;
+    color: black;
 }
 .container button{
     padding: 10px 40px;
